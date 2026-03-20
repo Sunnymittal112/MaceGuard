@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [The Problem](#the-problem)
 - [The Solution](#the-solution)
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚨 The Problem
+##  The Problem
 
 You're running a PvP server. Players complain about this:
 
@@ -45,7 +45,7 @@ Existing plugins?
 
 ---
 
-## ✅ The Solution
+##  The Solution
 
 SkyGuard is a **brutally effective** flight control system that:
 
@@ -61,30 +61,30 @@ SkyGuard is a **brutally effective** flight control system that:
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🔒 Absolute Flight Lock
+###  Absolute Flight Lock
 - Uses `EventPriority.HIGHEST` to process **after** all other plugins
 - Disables flight from **any source**: `/fly`, Wings enchantment, Creative mode, other plugins
 - Prevents re-enabling until combat ends
 
-### ⚔️ Smart Combat Tagging
+###  Smart Combat Tagging
 - Triggered only by **Mace hits from flying players**
 - Tags **both** attacker and victim
 - Visual action-bar countdown
 - Clear enter/leave messages
 
-### 🚫 Mace Restriction
+###  Mace Restriction
 - Cannot equip Mace while flying
 - Cannot use Mace while flying
 - Prevents inventory hotbar swaps to Mace
 
-### 🔍 Wings Detection
+###  Wings Detection
 - Automatically detects AdvancedEnchantments Wings enchantment
 - Checks item lore for enchantment name
 - Configurable enchantment name
 
-### 🎨 Customizable
+###  Customizable
 - All messages fully configurable with color codes
 - Adjustable combat duration
 - World/region blacklist support
@@ -92,7 +92,7 @@ SkyGuard is a **brutally effective** flight control system that:
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 *Coming soon - show your plugin in action!*
 
@@ -103,7 +103,7 @@ Suggested screenshots:
 
 ---
 
-## 📥 Installation
+##  Installation
 
 ### Quick Install (Recommended)
 
